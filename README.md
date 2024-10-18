@@ -34,8 +34,11 @@ Audio File: Place an MP3 file named Toxicity.mp3 in the data folder of the sketc
 INSTALLATION
 
 Download or clone this repository.
+
 Open the .pde file in Processing.
+
 Ensure you have the Toxicity.mp3 file in the data folder.
+
 Run the sketch.
 
 
